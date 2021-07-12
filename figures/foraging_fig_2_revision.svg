@@ -18,7 +18,7 @@
    version="1.1"
    viewBox="0 0 210 297"
    width="210mm"
-   inkscape:export-filename="/home/caveman/Sync/LAB_Private/PAPERS/2020_foraging/jeb_revision/figures/Fig_2.png"
+   inkscape:export-filename="/home/caveman/Sync/LAB_Private/PAPERS/2020_foraging/jeb_revision_2/Figures_v2/Fig_2.png"
    inkscape:export-xdpi="600"
    inkscape:export-ydpi="600">
   <defs
@@ -237,11 +237,11 @@
      inkscape:document-units="mm"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:window-height="2124"
+     inkscape:window-height="2127"
      inkscape:window-maximized="1"
-     inkscape:window-width="3751"
-     inkscape:window-x="89"
-     inkscape:window-y="36"
+     inkscape:window-width="3759"
+     inkscape:window-x="81"
+     inkscape:window-y="33"
      inkscape:zoom="3.959798"
      pagecolor="#ffffff"
      showgrid="false" />
@@ -610,7 +610,7 @@
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.73071098px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
            x="25.348761"
-           y="6.5484376">No odor</tspan><tspan
+           y="6.5484376">No odor source</tspan><tspan
            id="tspan13367"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.73071098px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
@@ -619,19 +619,19 @@
       <text
          id="text13365-5"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.73071098px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
-         x="54.11768"
+         x="53.252323"
          xml:space="preserve"
-         y="18.641758"><tspan
+         y="17.343723"><tspan
            id="tspan13367-9"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.73071098px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-           x="54.11768"
-           y="18.641758">Approached</tspan><tspan
+           x="53.252323"
+           y="17.343723">Approached</tspan><tspan
            id="tspan13429"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.73071098px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-           x="54.11768"
-           y="20.372469">odor</tspan></text>
+           x="53.252323"
+           y="19.074434">odor source</tspan></text>
     </g>
     <text
        id="text1695-3-0-1-03"
@@ -814,14 +814,14 @@
     <text
        id="text43336"
        style="font-style:normal;font-weight:normal;font-size:1.76388884px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
-       x="69.740662"
+       x="70.269829"
        xml:space="preserve"
-       y="56.967937"><tspan
+       y="56.43877"><tspan
          id="tspan43334"
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-         x="69.740662"
-         y="56.967937">Approached odor</tspan></text>
+         x="70.269829"
+         y="56.43877">Approached odor source</tspan></text>
     <text
        id="text43336-6"
        style="font-style:normal;font-weight:normal;font-size:1.76388884px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
@@ -832,7 +832,7 @@
          sodipodi:role="line"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
          x="73.451355"
-         y="73.865875">Did not approach odor</tspan></text>
+         y="73.865875">Did not approach odor source</tspan></text>
     <path
        d="m 85.507001,56.632482 4.171907,1.833182"
        id="path43356"
